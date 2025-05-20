@@ -7,7 +7,7 @@ Vous trouverez ici les dépôts liés aux cours, aux modules, et aux projets de 
 
 ## 🖧 Infra
 
-Modules de l'orientation infrastructure :  :
+Modules de l'orientation infrastructure :
 
 | Module | Intitulé                                                                 | Statut        | Lien vers le dépôt                                                      |
 |--------|--------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|
