@@ -18,6 +18,7 @@ Modules de l'orientation infrastructure :
 | I143   | Implanter un système de sauvegarde et de restauration                    | 🕒 WIP         | _Pas encore de repo_                                                   |
 | I145   | Exploiter et étendre un réseau                                           | 🕒 WIP         | _Pas encore de repo_                                                   |
 | C190   | Mettre en place et exploiter une plateforme de virtualisation            | ✅ Done        | [🔗 C190 - Virtualisation](https://github.com/ETML-INF/C-190-Virtualisation) |
+| C216   | Intégrer les terminaux IoE dans une plateforme existante                 | 🕒 WIP         | [🔗 C216 - IoE](https://github.com/ETML-INF/C216-IoE)                                                   |
 
 > 🔁 Statuts : _Pas encore de repo_ | 🕒 WIP = en cours | ✅ Done = terminé
 
