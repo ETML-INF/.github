@@ -13,7 +13,7 @@ Modules de l'orientation infrastructure :
 |--------|--------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------|
 | I117   | Mettre en place l’infrastructure informatique et réseau d’une petite entreprise | ✅ V0.1 Done   | [🔗 I117 - Réseau PME](https://github.com/ETML-INF/I117-ReseauPME)       |
 | I123   | Activer les services d’un serveur                                        | 🕒 WIP         | _Pas encore de repo_                                                   |
-| C187   | Mettre en service un poste de travail ICT avec le système d’exploitation | 🕒 WIP         | [🔗 C187 - Poste de travail](https://github.com/ETML-INF/C187-Poste-travail-ICT)                                                 |
+| C187   | Mettre en service un poste de travail ICT avec le système d’exploitation | ✅ V0.1 Done        | [🔗 C187 - Poste de travail](https://github.com/ETML-INF/C187-Poste-travail-ICT)                                                 |
 | I129   | Mettre en service des composants réseaux                                 | 🕒 WIP         | _Pas encore de repo_                                                   |
 | I143   | Implanter un système de sauvegarde et de restauration                    | 🕒 WIP         | _Pas encore de repo_                                                   |
 | I145   | Exploiter et étendre un réseau                                           | 🕒 WIP         | _Pas encore de repo_                                                   |
