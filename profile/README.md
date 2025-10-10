@@ -5,6 +5,19 @@ Vous trouverez ici les dépôts liés aux cours, aux modules, et aux projets de 
 
 ---
 
+
+## 🌳 Tronc commun
+
+Modules communs aux deux orientations :
+
+| Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
+|--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| I122   | Automatiser des procédures à l’aide de scripts | ✅ Actif | | [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
+| I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  || [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/346-concevoir-et-realiser-des-solutions-cloud) ||
+
+
+---
+
 ## 🖧 Infra
 
 Modules de l'orientation infrastructure :
@@ -31,14 +44,6 @@ Modules de l’orientation développement (section en cours de construction).
 
 ---
 
-## ♾️ DevOps
-
-Modules de l'orientation DevOps :
-
-| Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
-|--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| I122   | Automatiser des procédures à l’aide de scripts | ✅ Actif | | [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
-| I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  || [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/346-concevoir-et-realiser-des-solutions-cloud) ||
 
 
 ## 📚 Ressources complémentaires
