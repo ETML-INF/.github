@@ -37,7 +37,7 @@ Modules de l'orientation DevOps :
 
 | Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
 |--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| I122   | Automatiser des procédures à l’aide de scripts | ✅ Actif | | [🔗 I122 - Automatiser avec scripts]([https://github.com/ETML-INF/I117-ReseauPME](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
+| I122   | Automatiser des procédures à l’aide de scripts | ✅ Actif | | [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
 | I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  || [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/346-concevoir-et-realiser-des-solutions-cloud) ||
 
 
