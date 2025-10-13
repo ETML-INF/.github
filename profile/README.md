@@ -12,8 +12,8 @@ Modules communs aux deux orientations :
 
 | Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
 |--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| I122   | Automatiser des procédures à l’aide de scripts | ✅ Actif | | [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
-| I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  || [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/346-concevoir-et-realiser-des-solutions-cloud) ||
+| I122   | Automatiser des procédures à l’aide de scripts | ✅✅ Actif | [🔗 Issues - I122](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts/issues)| [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
+| I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  |[🔗 Issues - I346](https://github.com/ETML-INF/I346-concevoir-et-realiser-des-solutions-cloud/issues)| [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/346-concevoir-et-realiser-des-solutions-cloud) |[🔗 I346 sur section-inf](https://enseignement.section-inf.ch/moduleICT/346/cours/)|
 
 
 ---
@@ -30,19 +30,22 @@ Modules de l'orientation infrastructure :
 | I129   | Mettre en service des composants réseaux                                 | ✅ V0.1 Done        | | [🔗 I129 - Composants Network](https://github.com/ETML-INF/I129-Composants-Network) ||
 | I143   | Implanter un système de sauvegarde et de restauration                    | 🕒 WIP         | | _Pas encore de repo_                                                   ||
 | I145   | Exploiter et étendre un réseau                                           | 🕒 WIP         | | _Pas encore de repo_                                                   ||
-| I182   | Implémenter la sécurité système                                          | ✅ Actif         | [📑 Issues - I182 - Sécurité système](https://github.com/ETML-INF/I182-Implementer-la-securite-systeme/issues) |  [🔗 I182 - Sécurité système](https://github.com/ETML-INF/I182-Implementer-la-securite-systeme) | [🔗 I182 - Sécurité système (section-inf)](https://enseignement.section-inf.ch/moduleICT/182/cours/)       
+| I182   | Implémenter la sécurité système                                          | ✅✅ Actif         | [📑 Issues - I182](https://github.com/ETML-INF/I182-Implementer-la-securite-systeme/issues) |  [🔗 I182 - Sécurité système](https://github.com/ETML-INF/I182-Implementer-la-securite-systeme) | [🔗 I182 sur section-inf](https://enseignement.section-inf.ch/moduleICT/182/cours/)       
 | C190   | Mettre en place et exploiter une plateforme de virtualisation            | ✅ V0.1 Done        | |  [🔗 C190 - Virtualisation](https://github.com/ETML-INF/C-190-Virtualisation) ||
 | C216   | Intégrer les terminaux IoE dans une plateforme existante                 | 🕒 WIP         ||  [🔗 C216 - IoE](https://github.com/ETML-INF/C216-IoE)                                                   ||
-
-> 🔁 Statuts : _Pas encore de repo_ | 🕒 WIP = en cours | ✅ Done = terminé
 
 ---
 
 ## 🧑‍💻 Dev
 
-Modules de l’orientation développement (section en cours de construction).
+| Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
+|--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
+| I347   | Utiliser un service avec des conteneurs | ✅✅ Actif  | [📑 Issues - I347](https://github.com/ETML-INF/I347-Utiliser-un-service-avec-des-conteneurs/issues) | [🔗 I347 - Utiliser un service avec des conteneurs](https://github.com/ETML-INF/I347-Utiliser-un-service-avec-des-conteneurs)       | [🔗 I347 sur section-inf](https://enseignement.section-inf.ch/moduleICT/347/cours/)|
+
 
 ---
+
+> 🔁 Statuts : _Pas encore de repo_ | 🕒 WIP = en cours | ✅ Done = terminé | ✅✅ Actif = utilisé avec les élèves
 
 
 
