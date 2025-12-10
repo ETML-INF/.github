@@ -44,6 +44,10 @@ Modules de l'orientation infrastructure :
 
 
 ---
+## ⚙️Outils d'automatisation
+
+* Tardis : [tardis-pipelines](https://github.com/ETML-INF/tardis-pipelines)
+---
 
 > 🔁 Statuts : _Pas encore de repo_ | 🕒 WIP = en cours | ✅ Done = terminé | ✅✅ Actif = utilisé avec les élèves
 
