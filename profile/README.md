@@ -41,6 +41,8 @@ Modules de l'orientation infrastructure :
 | Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
 |--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | I347   | Utiliser un service avec des conteneurs | ✅✅ Actif  | [📑 Issues - I347](https://github.com/ETML-INF/I347-Utiliser-un-service-avec-des-conteneurs/issues) | [🔗 I347 - Utiliser un service avec des conteneurs](https://github.com/ETML-INF/I347-Utiliser-un-service-avec-des-conteneurs)       | [🔗 I347 sur section-inf](https://enseignement.section-inf.ch/moduleICT/347/cours/)|
+| I293   | Créer et publier un site web | ✅✅ Actif  | [📑 Issues - I293](https://github.com/ETML-INF/i293-creer-et-publier-un-site-web/issues) | [🔗 I293 - Créer et publier un site web](https://github.com/ETML-INF/i293-creer-et-publier-un-site-web)  | [🔗 I293 sur section-inf](https://enseignement.section-inf.ch/moduleICT/293/)|
+
 
 
 ---
