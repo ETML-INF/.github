@@ -13,7 +13,7 @@ Modules communs aux deux orientations :
 | Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
 |--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
 | I122   | Automatiser des procédures à l’aide de scripts | ✅✅ Actif | [🔗 Issues - I122](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts/issues)| [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
-| I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  |[🔗 Issues - I346](https://github.com/ETML-INF/I346-concevoir-et-realiser-des-solutions-cloud/issues)| [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/346-concevoir-et-realiser-des-solutions-cloud) |[🔗 I346 sur section-inf](https://enseignement.section-inf.ch/moduleICT/346/cours/)|
+| I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  |[🔗 Issues - I346](https://github.com/ETML-INF/I346-concevoir-et-realiser-des-solutions-cloud/issues)| [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/I346-concevoir-et-realiser-des-solutions-cloud) |[🔗 I346 sur section-inf](https://enseignement.section-inf.ch/moduleICT/346/cours/)|
 
 
 ---
@@ -52,6 +52,8 @@ Modules de l'orientation infrastructure :
 > 🔁 Statuts : _Pas encore de repo_ | 🕒 WIP = en cours | ✅ Done = terminé | ✅✅ Actif = utilisé avec les élèves
 
 
+## 🏠Landing page de enseignement.section-inf.ch
+[Repo - enseignement.section-inf.ch](https://github.com/ETML-INF/enseignement-section-inf)
 
 ## 📚 Ressources complémentaires
 
