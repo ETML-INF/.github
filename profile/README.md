@@ -32,7 +32,7 @@ Modules de l'orientation infrastructure :
 | I145   | Exploiter et étendre un réseau                                           | 🕒 WIP         | | _Pas encore de repo_                                                   ||
 | I182   | Implémenter la sécurité système                                          | ✅✅ Actif | [📑 Issues - I182](https://github.com/ETML-INF/I182-Implementer-la-securite-systeme/issues) |  [🔗 I182 - Sécurité système](https://github.com/ETML-INF/I182-Implementer-la-securite-systeme) | [🔗 I182 sur section-inf](https://enseignement.section-inf.ch/moduleICT/182/cours/)       
 | C190   | Mettre en place et exploiter une plateforme de virtualisation            | ✅✅ Actif | |  [🔗 C190 - Virtualisation](https://github.com/ETML-INF/C-190-Virtualisation) ||
-| C216   | Intégrer les terminaux IoE dans une plateforme existante                 | 🕒 WIP         ||  [🔗 C216 - IoE](https://github.com/ETML-INF/C216-IoE)                                                   ||
+| C216   | Intégrer les terminaux IoE dans une plateforme existante                 | ✅✅ Actif     ||  [🔗 C216 - IoE](https://github.com/ETML-INF/c216-ioe-support-doc))                                                   ||
 
 ---
 
