@@ -12,7 +12,7 @@ Modules communs aux deux orientations :
 
 | Module | Intitulé                                                                 | Statut        | Lien vers le GitHub Issues | Lien vers le dépôt                                                      | Lien vers la publication                                                |
 |--------|--------------------------------------------------------------------------|---------------|--------|-------------------------------------------------------------------------|-------------------------------------------------------------------------|
-| I122   | Automatiser des procédures à l’aide de scripts | ✅✅ Actif | [🔗 Issues - I122](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts/issues)| [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/I122-Automatiser-des-procedures-a-l-aide-de-scripts)     |[🔗 I122 - Automatiser avec scripts](https://enseignement.section-inf.ch/moduleICT/122_sandbox)|
+| I122   | Automatiser des procédures à l’aide de scripts | ✅✅ Actif | [🔗 Issues - I122](https://github.com/ETML-INF/i122-powershell-support-doc/issues)| [🔗 I122 - Automatiser avec scripts](https://github.com/ETML-INF/i122-powershell-support-doc)     |[🔗 I122 - Automatiser avec scripts](https://etml-inf.github.io/i122-powershell-support-doc/)|
 | I346 | Concevoir et réaliser des solutions cloud | 🕒 WIP  |[🔗 Issues - I346](https://github.com/ETML-INF/I346-concevoir-et-realiser-des-solutions-cloud/issues)| [🔗 I346 - Solutions Cloud](https://github.com/ETML-INF/I346-concevoir-et-realiser-des-solutions-cloud) |[🔗 I346 sur section-inf](https://enseignement.section-inf.ch/moduleICT/346/cours/)|
 
 
